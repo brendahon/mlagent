@@ -39,7 +39,6 @@ function sendfb($from,$to,$msg){
 	curl_setopt($curl, CURLOPT_RETURNTRANSFER, 1);
 
 	$result = curl_exec($curl);
-	curl_close($curl);
 
 	var_dump(curl_getinfo($curl));
 
