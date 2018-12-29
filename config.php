@@ -6,6 +6,6 @@
 
 return array(
     'COMMS_ROUTER' => 'https://cryptic-plateau-25998.herokuapp.com/comms-router-web/api/routers/mlrouter',
-    'CALLBACK_URL' => 'https://8479e2b6.ngrok.io/agent-webhook.php'
+    'CALLBACK_URL' => 'https://mysterious-castle-85649.herokuapp.com/agent-webhook.php'
 );
 ?>
