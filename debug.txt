@@ -1,0 +1,61 @@
+chatfile None
+call center status AGENTS_AVAILABLE
+chatfile agent/brenda-1992231950858606.chat
+chatfile agent/brenda-1992231950858606.chat
+chatfile agent/brenda-1992231950858606.chat
+chatfile agent/brenda-1992231950858606.chat
+chatfile agent/brenda-1992231950858606.chat
+chatfile agent/brenda-1992231950858606.chat
+chatfile agent/brenda-1992231950858606.chat
+chatfile agent/brenda-1992231950858606.chat
+chatfile agent/brenda-1992231950858606.chat
+chatfile agent/brenda-1992231950858606.chat
+chatfile agent/brenda-1992231950858606.chat
+chatfile None
+call center status AGENTS_BUSY
+chatfile agent/brenda-1992231950858606.chat
+chatfile None
+call center status AGENTS_BUSY
+chatfile agent/brenda-1992231950858606.chat
+chatfile agent/brenda-1992231950858606.chat
+chatfile None
+call center status AGENTS_BUSY
+chatfile agent/brenda-2232768536754576.chat
+chatfile agent/brenda-2232768536754576.chat
+chatfile agent/brenda-2232768536754576.chat
+chatfile None
+call center status AGENTS_AVAILABLE
+chatfile agent/brenda-1992231950858606.chat
+chatfile None
+call center status AGENTS_NOT_AVAILABLE
+chatfile None
+call center status AGENTS_AVAILABLE
+chatfile None
+call center status AGENTS_NOT_AVAILABLE
+chatfile None
+call center status AGENTS_AVAILABLE
+chatfile None
+call center status AGENTS_AVAILABLE
+chatfile None
+call center status AGENTS_AVAILABLE
+chatfile None
+call center status AGENTS_AVAILABLE
+chatfile None
+call center status AGENTS_AVAILABLE
+chatfile agent/a-1992231950858606.chat
+chatfile agent/a-1992231950858606.chat
+chatfile None
+call center status AGENTS_AVAILABLE
+chatfile None
+call center status AGENTS_AVAILABLE
+chatfile None
+call center status AGENTS_AVAILABLE
+chatfile agent/a-1992231950858606.chat
+chatfile None
+call center status AGENTS_NOT_AVAILABLE
+call center status AGENTS_NOT_AVAILABLE
+chatfile None
+call center status AGENTS_NOT_AVAILABLE
+chatfile None
+call center status AGENTS_AVAILABLE
+chatfile agent/brenda-1992231950858606.chat
