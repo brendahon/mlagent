@@ -8,6 +8,9 @@ $GLOBALS["config"] = $configs;
 $request= file_get_contents('php://input');
 $decoded_request = json_decode($request, true);
 $fp = fopen("logs/raw.txt", 'a');
+
+echo "\nreceive message=$request\n";
+
 fwrite($fp, $request."\n");
 fclose($fp);
 
