@@ -5,7 +5,7 @@ if(isset($_POST["from"])){
 	sendfb($_POST["from"],$_POST["to"],$_POST["four"]);
 }
 function sendfb($from,$to,$msg){
-	$jwt = generate_jwt("7c107966-8f10-43f2-aa51-37d2ed505f86","private.key");
+	$jwt = generate_jwt("64842b84-fb51-4ada-bc79-63cf94d9204a","private.key");
 
 	echo "\njwt= $jwt\n";
 	echo "from= $from\n";
